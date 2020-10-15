@@ -1,0 +1,13 @@
+C:\Users\andel\source\repos\Deadlock\Deadlock\bin\Debug\netcoreapp3.1\Deadlock.exe
+C:\Users\andel\source\repos\Deadlock\Deadlock\bin\Debug\netcoreapp3.1\Deadlock.deps.json
+C:\Users\andel\source\repos\Deadlock\Deadlock\bin\Debug\netcoreapp3.1\Deadlock.runtimeconfig.json
+C:\Users\andel\source\repos\Deadlock\Deadlock\bin\Debug\netcoreapp3.1\Deadlock.runtimeconfig.dev.json
+C:\Users\andel\source\repos\Deadlock\Deadlock\bin\Debug\netcoreapp3.1\Deadlock.dll
+C:\Users\andel\source\repos\Deadlock\Deadlock\bin\Debug\netcoreapp3.1\Deadlock.pdb
+C:\Users\andel\source\repos\Deadlock\Deadlock\obj\Debug\netcoreapp3.1\Deadlock.csprojAssemblyReference.cache
+C:\Users\andel\source\repos\Deadlock\Deadlock\obj\Debug\netcoreapp3.1\Deadlock.AssemblyInfoInputs.cache
+C:\Users\andel\source\repos\Deadlock\Deadlock\obj\Debug\netcoreapp3.1\Deadlock.AssemblyInfo.cs
+C:\Users\andel\source\repos\Deadlock\Deadlock\obj\Debug\netcoreapp3.1\Deadlock.csproj.CoreCompileInputs.cache
+C:\Users\andel\source\repos\Deadlock\Deadlock\obj\Debug\netcoreapp3.1\Deadlock.dll
+C:\Users\andel\source\repos\Deadlock\Deadlock\obj\Debug\netcoreapp3.1\Deadlock.pdb
+C:\Users\andel\source\repos\Deadlock\Deadlock\obj\Debug\netcoreapp3.1\Deadlock.genruntimeconfig.cache
